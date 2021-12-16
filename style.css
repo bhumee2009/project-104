@@ -1,0 +1,33 @@
+body{
+    background-color: darkblue;
+}
+
+.heading{
+    width: 80%;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.name_of_objects{
+    color: greenyellow;
+    font-size: 18px;
+}
+
+#camera{
+    border: 2px  dashed goldenrod;
+    width: 350px;
+    height: 300px;
+}
+
+#result_object_name, #result_object_accuracy{
+    color: red;
+    font-family: fantasy;
+}
+
+p{
+    color: white;
+}
+
+label{
+    color: white;
+}
